@@ -34,6 +34,7 @@ body{
  width: 250px;
 
  background-color: rgb(248, 238, 151);
+
 }
 .box1{
     height: 250px ;
@@ -47,8 +48,7 @@ body{
     border-left: 450px solid transparent;
     border-right:450px solid transparent;
     border-bottom: 300px solid blue;
-
-    margin-top: -430px;
+    margin-top: -300px;
 }
 
 
